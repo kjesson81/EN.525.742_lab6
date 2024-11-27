@@ -1,0 +1,6 @@
+vivado/
+vitis/
+*.log
+*.metadata
+*.bak
+ 

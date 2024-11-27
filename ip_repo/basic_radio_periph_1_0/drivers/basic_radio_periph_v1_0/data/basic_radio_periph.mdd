@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER basic_radio_periph
+	OPTION supported_peripherals = (basic_radio_periph);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = basic_radio_periph;
+END DRIVER

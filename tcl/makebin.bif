@@ -1,0 +1,4 @@
+all:
+{
+	../vivado/lab6_prj/lab6_prj.runs/impl_1/lab6_top.bit
+}
