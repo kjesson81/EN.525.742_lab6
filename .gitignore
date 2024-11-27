@@ -1,5 +1,6 @@
 vivado/
 vitis/
+fpga_files
 *.log
 *.metadata
 *.bak
